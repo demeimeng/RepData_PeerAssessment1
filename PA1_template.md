@@ -143,7 +143,7 @@ simulated data:
            facet_wrap(~category, ncol = 1, nrow=2)
     print(plot)
 
-![](PA1_template_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](PA1_template_files/figure-markdown_strict/Average%20Steps%20by%20Day%20Type-1.png)
 
 The plots shows higher average steps in the afternoon during weekends,
 compared to those during weekdays.
